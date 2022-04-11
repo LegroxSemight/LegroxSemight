@@ -4,7 +4,7 @@
 ![legrox_wiev](https://komarev.com/ghpvc/?username=LegroxSemight&color=dc143c)
 
 # About me
-I'm almost 17 years old a junior developer. I love coding and game videos. I have 2 years experience and I'm doing this for fun.
+I'm almost 18 years old a junior developer. I love coding and game videos. I have 2 years experience and I'm doing this for fun.
 
 ## 🌐 Techs & Langs🌐
 #### Langs
